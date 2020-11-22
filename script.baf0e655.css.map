@@ -1,0 +1,1 @@
+{"version":3,"sources":["src\\styles\\style.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;;;AAGJ;EACI;EACA;EACA","file":"script.baf0e655.css","sourceRoot":"..","sourcesContent":["* {\r\n    margin: 0;\r\n    padding: 0;\r\n    box-sizing: border-box;\r\n}\r\n\r\nbody {\r\n    background: royalblue;\r\n    color: white;\r\n    font-family: sans-serif;\r\n}\r\n"]}
