@@ -1,0 +1,27 @@
+{
+    "name": "parcel-boilerplate",
+    "version": "1.0.0",
+    "description": "Project boilerplate with parcel and automatic deploying into the GitHub pages branch",
+    "main": "index.js",
+    "scripts": {
+        "dev": "parcel index.html",
+        "deploy": "parcel build index.html --public-url ./ && gh-pages -d dist"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/adamgiebl/parcel-boilerplate.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/adamgiebl/parcel-boilerplate/issues"
+    },
+    "homepage": "https://github.com/adamgiebl/parcel-boilerplate",
+    "dependencies": {
+        "gh-pages": "^3.1.0",
+        "sass": "^1.29.0"
+    },
+    "devDependencies": {
+        "cssnano": "^4.1.10"
+    }
+}
