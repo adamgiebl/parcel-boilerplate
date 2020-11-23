@@ -2,6 +2,7 @@ Project boilerplate with parcel and automatic deployment into the GitHub pages b
 SCSS included.
 
 ## How to use
+- run `npm install`
 - turn on the source for GitHub pages to be the `gh-pages` branch
 - link scss files directly inside index.html or import them in javascript 
 - set the homepage inside package.json to follow this format https://<your gh username>.github.io/<your repo name>
