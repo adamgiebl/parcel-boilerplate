@@ -1,4 +1,4 @@
-Project boilerplate with parcel and automatic deployment into the GitHub pages branch.
+📦 Project boilerplate with parcel and automatic deployment into the GitHub pages branch.
 SCSS included.
 
 ## How to use
