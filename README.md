@@ -19,5 +19,5 @@ Besides all the default Parcel features:
   
 ## Scripts
 - `npm start` or `npm run dev` to run a local server with live reload
-- `npm run deploy` to deploy into the gh-pages branch
+- `npm run deploy` to build and deploy into the gh-pages branch
 
