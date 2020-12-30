@@ -11,5 +11,5 @@ SCSS included.
 - set the homepage inside package.json to follow this format `https://[your gh username].github.io/[your repo name]`, basically whatever the domain of your github page will be e.g. https://adamgiebl.github.io/neumorphism
   
 ## Scripts
-- `npm run deploy` to deploy into gh-pages branch
+- `npm run deploy` to deploy into the gh-pages branch
 - `npm run dev` run development environment
