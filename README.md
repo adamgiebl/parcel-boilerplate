@@ -1,6 +1,6 @@
 <p align="center"><img src="./assets/logo.svg" width="300"></p>
 
-# 📦 
+
 Project boilerplate with parcel and automatic deployment into the GitHub pages branch.
 SCSS included.
 
