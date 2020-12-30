@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/script.js"],"names":["console","log"],"mappings":";;;AAEA,aAFA,QAAA,uBAEAA,QAAQC,IAAI","file":"script.15141978.js","sourceRoot":"..","sourcesContent":["import './styles/style.scss'\n\nconsole.log('All systems are go!')\n"]}

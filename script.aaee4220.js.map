@@ -1,1 +1,0 @@
-{"version":3,"sources":["src/script.js"],"names":["console","log"],"mappings":";;;AAEA,aAFA,QAAA,uBAEAA,QAAQC,IAAI","file":"script.aaee4220.js","sourceRoot":"..","sourcesContent":["import './styles/style.scss'\r\n\r\nconsole.log('Works')\r\n"]}
