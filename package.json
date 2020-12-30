@@ -4,6 +4,7 @@
     "description": "Project boilerplate with parcel and automatic deploying into the GitHub pages branch",
     "main": "index.js",
     "scripts": {
+        "start": "parcel index.html",
         "dev": "parcel index.html",
         "deploy": "parcel build index.html --public-url ./ && gh-pages -d dist"
     },
@@ -17,11 +18,10 @@
         "url": "https://github.com/adamgiebl/parcel-boilerplate/issues"
     },
     "homepage": "https://github.com/adamgiebl/parcel-boilerplate",
-    "dependencies": {
-        "gh-pages": "^3.1.0",
-        "sass": "^1.29.0"
-    },
+    "dependencies": {},
     "devDependencies": {
-        "cssnano": "^4.1.10"
+        "cssnano": "^4.1.10",
+        "gh-pages": "^3.1.0",
+        "sass": "^1.32.0"
     }
 }

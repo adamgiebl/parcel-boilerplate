@@ -1,3 +1,3 @@
 import './styles/style.scss'
 
-console.log('Works')
+console.log('All systems are go!')
